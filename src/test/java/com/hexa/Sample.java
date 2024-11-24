@@ -22,4 +22,12 @@ public class Sample {
 		System.out.println("kerela");
 	}
 
+	public void trichy() {
+		System.out.println("Trichy");
+	}
+
+	public void chennai() {
+		System.out.println("Trichy");
+	}
+
 }
