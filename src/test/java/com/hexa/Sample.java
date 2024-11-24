@@ -14,6 +14,14 @@ public class Sample {
 		System.out.println("test1");
 	}
 
+	public void tamilNadu() {
+		System.out.println("tamilnadu");
+	}
+
+	public void kerala() {
+		System.out.println("kerela");
+	}
+
 	public void trichy() {
 		System.out.println("Trichy");
 	}
